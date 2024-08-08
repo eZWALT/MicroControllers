@@ -1,4 +1,2 @@
-# UPC-CI
-Laboratory of Computer interfaces subject (2nd) where i was introduced to microcontrollers, such as pic18f45k22  
-
-Each .rar folder contains the code in C or PIC18F45K22 assembly language and the architecture of the project itself in the .pdsprj file.
+# Computer Interfaces (CI)
+This repository contains projects developed during the second Computer Interfaces (FIB-CI) course. Learn by exploring code written in C and PIC18F45K22 assembly for various microcontroller applications. Each project includes Proteus simulation files (.pdsprj) for easy visualization and analysis.
